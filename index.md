@@ -1,7 +1,10 @@
 # This is a first level header
 This is body text
 ## This is a second level header
-More body text
+a task list 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ### This is a third level header
 Here's some code
 ```
